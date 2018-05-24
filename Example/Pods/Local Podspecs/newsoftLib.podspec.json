@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "严加明测试数据",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/jiaming yan/newsoftLib",
+  "homepage": "https://github.com/yufeiyjm/newsoftLib",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "jiaming yan": "215436030@qq.com"
   },
   "source": {
-    "git": "https://github.com/jiaming yan/newsoftLib.git",
+    "git": "https://github.com/yufeiyjm/neusoftLib.git",
     "tag": "0.1.0"
   },
   "platforms": {
