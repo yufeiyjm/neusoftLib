@@ -1,0 +1,6 @@
+framework module newsoftLib {
+  umbrella header "newsoftLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

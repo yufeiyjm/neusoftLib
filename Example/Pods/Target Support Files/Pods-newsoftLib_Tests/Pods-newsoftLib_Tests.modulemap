@@ -1,0 +1,6 @@
+framework module Pods_newsoftLib_Tests {
+  umbrella header "Pods-newsoftLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

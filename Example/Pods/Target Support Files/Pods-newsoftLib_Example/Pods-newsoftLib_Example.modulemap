@@ -1,0 +1,6 @@
+framework module Pods_newsoftLib_Example {
+  umbrella header "Pods-newsoftLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
