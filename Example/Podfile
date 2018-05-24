@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'newsoftLib_Example' do
+  pod 'newsoftLib', :path => '../'
+
+  target 'newsoftLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
