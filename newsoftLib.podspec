@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 s.name         = "newsoftLib"
 s.version      = "1.0.0"
 s.summary      = "photo browserfsdafsdafsadfsda for ios."
-s.homepage     = "https://github.com/215436030@qq.com/newsoftLib"
+s.homepage     = "https://github.com/jiaming yan/newsoftLib"
 s.license      = "MIT"
 s.author             = { "yufeiyjm" => "215436030@qq.com" }
 s.platform     = :ios, "8.0"
